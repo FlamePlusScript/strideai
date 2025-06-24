@@ -19,6 +19,8 @@
   "devDependencies": {
     "@vercel/static-build": "^2.7.10",
     "@vitejs/plugin-react": "^4.6.0",
+    "autoprefixer": "^10.4.21",
+    "postcss": "^8.5.6",
     "vite": "^4.5.0"
   }
 }
