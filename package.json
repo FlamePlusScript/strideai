@@ -17,6 +17,6 @@
     "dev": "vite"
   },
   "devDependencies": {
-    "vite": "^6.3.5"
+    "vite": "^4.5.0"
   }
 }
